@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingArea", "DrawingArea\DrawingArea.csproj", "{868EF5A9-826D-4BF0-A99C-79242D6884B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingArea", "DrawingArea.csproj", "{868EF5A9-826D-4BF0-A99C-79242D6884B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
