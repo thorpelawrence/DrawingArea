@@ -9,7 +9,7 @@
 
 # Build results
 [Dd]ebug/
-!DrawingArea.exe
+!ImageViewer.exe
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
